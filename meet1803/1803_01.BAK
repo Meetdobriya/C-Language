@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+
+main();
+{
+
+ int x;
+ int y;
+ int z;
+
+ clrscr();
+
+  x = 25;
+  y = 39;
+  z = x + y;
+  printf("addition of %d and %d is %d", x, y, z);
+
+}

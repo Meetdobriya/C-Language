@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+  clrscr();
+  printf("- - - - -\n");
+  printf("|\t|\n");
+  printf("|\t|\n");
+  printf("|  meet |\n");
+  printf("|\t|\n");
+  printf("|\t|\n");
+  printf("- - - - -");
+  getch();
+
+
+}

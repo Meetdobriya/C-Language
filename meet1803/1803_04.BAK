@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+
+//wap is to find area of rectangular // l*w
+main()
+{
+  int l = 7;
+  int w = 4;
+  clrscr();
+  printf("area of rectangular is %d", l*w);
+
+  getch();
+
+}
